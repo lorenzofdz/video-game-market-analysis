@@ -20,4 +20,10 @@ Basé mi proyecto en el análisis de un extenso conjunto de datos de videojuegos
 - Observé que la plataforma de juego influye en la calificación promedio que los usuarios dan a los juegos, mientras que no se evidenció una diferencia significativa en las calificaciones entre los géneros de Acción y Deportes.
 - Descubrí que los juegos clasificados como "E" (para todos los públicos) son los más exitosos en términos de ventas en todas las regiones, destacando la importancia de la accesibilidad del contenido.
 
+### Habilidades Técnicas:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
 Este análisis me permitió proporcionar una base sólida para la toma de decisiones estratégicas en el desarrollo y la comercialización de videojuegos, orientando hacia la creación de productos que satisfagan las expectativas de los usuarios y maximicen el éxito comercial.
