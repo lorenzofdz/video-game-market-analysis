@@ -28,4 +28,6 @@ Basé mi proyecto en el análisis de un extenso conjunto de datos de videojuegos
   <img src="https://img.shields.io/badge/Matplotlib-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </div>
 
+<br>
+
 Este análisis me permitió proporcionar una base sólida para la toma de decisiones estratégicas en el desarrollo y la comercialización de videojuegos, orientando hacia la creación de productos que satisfagan las expectativas de los usuarios y maximicen el éxito comercial.
